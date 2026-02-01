@@ -22,7 +22,8 @@ I love exploring new technologies 💻 and using them to create useful and creat
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/chaimae-zaki-8250992a3/)
 - 🎮 &nbsp; I enjoy game development and simulations
   <br>
-
+<br>
+<br>
 <br>
 
 ### 🔨 Languages and Tools:
