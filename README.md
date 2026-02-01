@@ -19,7 +19,6 @@ I love exploring new technologies 💻 and using them to create useful and creat
 - 🤝 &nbsp; I’m looking to collaborate on **Laravel or C++ projects**
 - 🌱 &nbsp; I’m currently improving my **Laravel & JavaScript skills**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/zakichaimae-byte)
-- 💬 &nbsp; Ask me about anything related to C, C++, Java, SQL, Laravel, or Raylib
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/chaimae-zaki-8250992a3/)
 - 🎮 &nbsp; I enjoy game development and simulations
 
